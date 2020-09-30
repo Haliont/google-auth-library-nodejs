@@ -26,7 +26,8 @@
     "gtoken": "^5.0.0",
     "jws": "^4.0.0",
     "lru-cache": "^6.0.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "stream": "0.0.2"
   },
   "devDependencies": {
     "@compodoc/compodoc": "^1.1.7",
